@@ -6,7 +6,6 @@ You must have Docker Installed in your System !
 
 ### How to run the App :
 
-Article - 
 ##### In Development Mode :
 
 Run the app using :
